@@ -1,0 +1,24 @@
+<RCC>
+  <qresource>
+    <file>img/h3.png</file>
+    <file>img/h4.png</file>
+    <file>img/h1.png</file>
+    <file>img/h2.png</file>
+    <file>img/pcback.ico</file>
+    <file>img/bar1.png</file>
+    <file>img/bar2.png</file>
+    <file>img/bill1.png</file>
+    <file>img/bill2.png</file>
+    <file>img/cart1.png</file>
+    <file>img/cart2.png</file>
+    <file>img/pcback.ico</file>
+    <file>img/pcemail.ico</file>
+    <file>img/pceye.jpg</file>
+    <file>img/picpass.ico</file>
+    <file>img/pcuser.png</file>
+    <file>img/search1.png</file>
+    <file>img/search2.png</file>
+    <file>img/shop1.png</file>
+    <file>img/shop2.png</file>
+  </qresource>
+</RCC>
